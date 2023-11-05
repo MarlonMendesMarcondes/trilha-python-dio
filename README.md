@@ -34,4 +34,5 @@ Na etapa de Programação Orientada a Objetos (POO), os participantes aprenderã
 * Marcar Tarefa como Concluída: Os usuários podem marcar as tarefas como concluídas.
 * Editar Tarefa: Permite a edição do título, descrição, data de vencimento e prioridade de uma tarefa existente.
 * Excluir Tarefa: Permite aos usuários excluir tarefas que foram concluídas ou que não são mais relevantes.
+  
 Este projeto não apenas ajuda os participantes a compreender os fundamentos, estruturas de dados e conceitos de POO em Python, mas também fornece uma aplicação prática para consolidar o aprendizado, oferecendo uma oportunidade valiosa para aplicar os conhecimentos adquiridos em um contexto do mundo real.
